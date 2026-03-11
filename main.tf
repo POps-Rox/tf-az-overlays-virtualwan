@@ -33,4 +33,3 @@ module "mod_rg" {
   }) # Tags to be applied to all resources
 }
   
-<Start Rest of development>
